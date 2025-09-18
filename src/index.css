@@ -18,6 +18,8 @@ html {
 }
 
 body {
+  transform: scale(0.8);
+  transform-origin: top center;
   background: radial-gradient(
       circle at top,
       rgb(255, 216, 155, 0.98),
@@ -208,7 +210,7 @@ ol {
   font-family: "Caprasimo", cursive;
   font-size: 4rem;
   text-align: center;
-  color: #fcd256;
+  color: #ffd89b;
   margin: 0;
 }
 
@@ -223,8 +225,8 @@ ol {
   margin: 0 auto;
   font-size: 1.5rem;
   background: none;
-  border: 2px solid #fcd256;
-  color: #fcd256;
+  border: 2px solid #ffd89b;
+  color: #ffd89b;
   padding: 0.5rem 1rem;
   border-radius: 4px;
   cursor: pointer;
@@ -233,10 +235,10 @@ ol {
 }
 
 #game-over button:hover {
-  background: #fcd256;
+  background: #ffd89b;
   color: #3f3b00;
   transform: scale(1.1);
-  box-shadow: 0 0 20px rgba(255, 187, 0, 0.8);
+  box-shadow: 0 0 20px rgba(194, 172, 112, 0.8);
 }
 
 #log {
