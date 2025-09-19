@@ -2,8 +2,6 @@
 
 A simple Tic-Tac-Toe game built with **React** as part of the *React – The Complete Guide 2025* course by Maximilian Schwarzmüller.
 
-This project demonstrates React fundamentals like **components, props, state, event handling, and conditional rendering**.
-
 ## 🚀 Features
 - Classic 3x3 Tic-Tac-Toe board
 - Player turn switching (X / O)
